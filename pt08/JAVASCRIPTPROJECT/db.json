@@ -1,0 +1,54 @@
+{
+  "members": [
+    {
+      "id": "1",
+      "name": "George Mwangi",
+      "position": "Chairperson",
+      "contribution": 20000,
+      "balance": 0
+    },
+    {
+      "id": "2",
+      "name": "Juliet Wangui",
+      "position": "Assistant Chairperson",
+      "contribution": 18800,
+      "balance": 1200
+    },
+    {
+      "id": "3",
+      "name": "Nelious Kanyiha",
+      "position": "Secretary",
+      "contribution": 18500,
+      "balance": 1500
+    },
+    {
+      "id": "4",
+      "name": "Kenneth Martin",
+      "position": "Treasurer",
+      "contribution": 20000,
+      "balance": 0
+    },
+    {
+      "id": "5",
+      "name": "Steve Kuria",
+      "position": "Member",
+      "contribution": 15000,
+      "balance": 5000
+    },
+    {
+      "id": "6",
+      "name": "Joan Wanjiru",
+      "position": "Member",
+      "contribution": 17000,
+      "balance": 3000
+    },
+    {
+      "id": "ec73",
+      "name": "Almond Thayu",
+      "position": "member",
+      "contribution": 13000,
+      "balance": 7000
+      
+    }
+  ]
+}

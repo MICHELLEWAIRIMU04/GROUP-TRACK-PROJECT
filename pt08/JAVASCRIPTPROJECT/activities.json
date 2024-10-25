@@ -1,0 +1,24 @@
+{
+  "activities": [
+    {
+      "id": "1",
+      "activity": "Attend Kenneth's graduation on November 15th 2024"
+    },
+    {
+      "id": "2",
+      "activity": "Visit Juliet on December 6th 2024"
+    },
+    {
+      "id": "3",
+      "activity": "Go hike Mt Longonot February 2025"
+    },
+    {
+      "id": "4",
+      "activity": "Visit Nelious on 8th March 2025"
+    },
+    {
+      "id": "5",
+      "activity": "Team-building in July 2025"
+    }
+  ]
+}
