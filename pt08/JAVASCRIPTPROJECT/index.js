@@ -104,7 +104,7 @@ document.getElementById('add-member-btn').addEventListener('click', () => {
   
 
     if (name && position && contribution && balance) {
-        const newMember = { name, position, contribution, balance, group };
+        const newMember = { name, position, contribution, balance };
 
         fetch('http://localhost:3000/members', {
             method: 'POST',
